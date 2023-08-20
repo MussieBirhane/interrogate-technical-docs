@@ -25,7 +25,10 @@ you with insightful responses.
 pip install requirements.txt
 ```
 3. Activate the created environment
-4. Create an .env file with your OPENAI-API-KEY inside and save it on the same directory
+4. Create an .env file with your OPENAI_API_KEY inside and save it on the same directory
+```
+OPENAI_API_KEY = "sk-************************************************"
+```
 5. Open a terminal in your code interpreter and launch the app
 ```
 streamlit run app-chat.py
