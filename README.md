@@ -22,7 +22,7 @@ you with insightful responses.
 1. Create a new Python environment
 2. Install all dependencies from requirements.txt
 ```
-pip install requirements.txt
+pip install -r requirements.txt
 ```
 3. Activate the created environment
 4. Create an .env file with your OPENAI_API_KEY inside and save it on the same directory
